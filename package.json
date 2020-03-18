@@ -1,0 +1,15 @@
+{
+  "name": "reduxsocketmiddleware",
+  "version": "1.0.0",
+  "description": "Socket middleware for redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larry Brown",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5",
+    "socket.io-client": "^2.3.0"
+  }
+}
